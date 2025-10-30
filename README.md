@@ -1,6 +1,8 @@
 # Take-Home Exercises - Sept 2025
 
 > Exercises for this term are posted to this repository. You can copy these instructions to your exercise repository set up by your instructor for this term. However, any updates to the instructions will be placed within this repository.
+>
+> **These exercises are to be an individual effort. Collaboration is not allowed. Collaboration would be an academic integrity concern. Concepts may be discussed but work must be an individual effort.** 
 
 1. [Exercise 1](./Exercise1/README.md)
 1. [Exercise 2](./Exercise2/README.md)
