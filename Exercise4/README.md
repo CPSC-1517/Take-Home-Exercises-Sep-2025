@@ -192,8 +192,8 @@ Your assignment will be marked based upon the following weights.
 
 |  Weight | Deliverable/Requirement |
 |  ---- | --------- |
-|  **1** | Create appropriate ASP.NET Core Class Blazor web server application (.net core 8) |
-|  **1** | Create appropriate ASP.NET Core Class Library (.net core 8) |
+|  **1** | Create appropriate ASP.NET Core Class Blazor web server application (.net core 9) |
+|  **1** | Create appropriate ASP.NET Core Class Library (.net core 9) |
 |  **1** | Uses reverse engineering to create Entities with custom validation message and DAL classes |
 |  **2** | Setup project references, necessary NuGet packages, and service registration using extension class |
 |  **2** | `JobServices.cs` BLL service class|
